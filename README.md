@@ -136,7 +136,7 @@ __NOTE__: We can add a ballon title description to our link by using double quot
 <!--GITHUB FLAVOR SET OF CODE BLOCK-->
 
 
-<-- CODE BLOCKS FOR GIT HUB DOCUMENTATION -->
+<!--CODE BLOCKS FOR GIT HUB DOCUMENTATION-->
 
 ```bash
 npm install
@@ -144,3 +144,25 @@ npm install
 npm start
 ```
 
+**NOTE**: You can specify some syntax code blocks for different languages
+
+```javascript
+function jsAdd(num1,num2){
+  return num1 + num2;
+}
+```
+
+```python
+def pythonAdd(num1,num2):
+  return num1 + num2;
+```
+
+```C#
+public static int Sum(int num1, int num2)
+   {
+     int total;
+     total = number1 + numb2;
+     return total;
+   }
+
+```
