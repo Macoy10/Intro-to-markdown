@@ -122,7 +122,15 @@ __NOTE__: We can add a ballon title description to our link by using double quot
    5.1  This is our list item 5 child item 1
     
    5.2  This is our list item 5 child item 2
-  
+   
+ 
+---
+
+<!-- Code block inline Example Rule-->
+
+***NOTE**:*Backtics will allow us to show the code block or the paragraph tags . its is located below the tilde character and on the top of the tab key*
+
+`p> This is a paragraph tag with a code inline code block example opening and closing tags </p>`
 
 
 
