@@ -132,13 +132,15 @@ __NOTE__: We can add a ballon title description to our link by using double quot
 
 `<p> This is a paragraph tag with a code inline code block example opening and closing tags </p>`
 
+---
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
 
 
+<-- CODE BLOCKS FOR GIT HUB DOCUMENTATION -->
 
+```bash
+npm install
 
-
-
-
-
-
+npm start
+```
 
