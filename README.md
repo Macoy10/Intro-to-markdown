@@ -56,6 +56,11 @@ This is an example of a *text with an asterisk* . When we don't want it to be it
 
 > We don't have to be great to start , but you need to start to be great, "* - __Unknow Author__
 
+<!--Links Rule-->
+
+**NOTE**: We would want to put the link description inside square brackets and the link to the resource inside of the two open and close parenthesis
+[MC-pexel profile](https://www.pexels.com/@marco-marvilla-451554328/)
+
 
 
 
