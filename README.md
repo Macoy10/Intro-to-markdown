@@ -62,6 +62,8 @@ This is an example of a *text with an asterisk* . When we don't want it to be it
 [MC-pexel profile](https://www.pexels.com/@marco-marvilla-451554328/)
 
 
+__NOTE__: We can add a ballon title description to our link by using double quotes after the link to the resource
+[MC-pexel profile](https://www.pexels.com/@marco-marvilla-451554328/ "This is MC-pexel profile")
 
 
 
