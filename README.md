@@ -50,6 +50,13 @@ This is an example of a *text with an asterisk* . When we don't want it to be it
 
 ---
 
+<!-- Blockqoute Rule -->
+
+> We use the greater than symbol to display a block of text as a quoate withd a back ground and line on the left side.
+
+> We don't have to be great to start , but you need to start to be great, "* - __Unknow Author__
+
+
 
 
 
