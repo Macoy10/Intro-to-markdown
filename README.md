@@ -43,7 +43,12 @@ Another way to add __HORIZONTAL RULES__ in our document markdown is by using thr
 
 ---
 
+<!-- Escape Character Rule using Backslash-->
 
+This is an example of a *text with an asterisk* . When we don't want it to be italicized. We want to use the backlash \ to escape the rule of using an opening 
+\*asterisk* and closing \*asterisk*  to inclose the text text content
+
+---
 
 
 
