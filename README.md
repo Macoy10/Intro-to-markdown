@@ -166,3 +166,23 @@ public static int Sum(int num1, int num2)
    }
 
 ```
+
+---
+<!-- Table Rules -->
+
+| Name | Nickname | Email |
+|------|----------|-------|
+|John  | Jo       | testjo@gmai.com  |
+|Marco | Macoy    | testCoy@gmail.com|
+|Bart  | Coolkid  | testcol@gmail.com|
+
+--
+
+<!-- Task Lists-->
+
+* [x] Task 1
+* [ ] Task 2 
+* [ ] Task 3
+* [ ] Task 4 
+
+
